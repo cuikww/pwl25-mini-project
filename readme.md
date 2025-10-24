@@ -104,6 +104,6 @@ Hasil pencarian satu mata kuliah. Sama seperti Read All, ini membuktikan LEFT JO
 
 5. DELETE /api/dosen/:nidn (Delete)
 
-![alt text](screenshot/d5_image5.png)
+![alt text](screenshot/mt_image5.png)
 
 (Catatan: Endpoint PUT dan DELETE untuk mata kuliah mengikuti pola yang sama dengan Dosen)
